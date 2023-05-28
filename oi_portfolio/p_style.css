@@ -1,0 +1,216 @@
+.home{
+    background-color: rgb(219 212 212);
+    height: 98vh;
+}
+.list{
+    font-size: 20px;
+    background-color: black;
+    width: 40vh;
+    height: 98vh;
+    display: flex;
+}
+.list ul{
+    list-style: none;
+    color: white;
+    padding: 100px 0px;
+}
+.home ul li{
+    margin: 20px 20px 20px 20px;
+    background-color: rgb(99, 97, 97);
+    padding: 20px 20px 20px 20px;
+}
+.home ul li a{
+    text-decoration: none;
+    color: white;
+}
+.container{
+    display: flex;
+    color: white;
+}
+.info{
+    background-color: rgb(61 60 60);;
+    display: flex;
+    height: 65vh;
+    width: 130vh;
+    position: fixed;
+    top: 20vh;
+    left: 60vh;
+}
+.hello{
+    font-size: 40px;
+    height: 6vh;
+    position: fixed;
+    top: 35vh;
+    left: 69vh;
+}
+.intro{
+    font-size: 30px;
+    height: 6vh;
+    position: fixed;
+    top: 43vh;
+    left: 69vh;
+}
+.pic img{
+    height: 47vh;
+    position: fixed;
+    top: 28vh;
+    left: 145vh;
+}  
+.about{
+    font-size: 18px;
+    height: 6vh;
+    width: 70vh;
+    position: fixed;
+    top: 50vh;
+    left: 69vh;
+}
+.sep{
+    background-color: white;
+    height: 1vh;
+    width: 130vh;
+    position: fixed;
+    top: 30vh;
+
+    
+}
+.university{
+    font-size: 3vh;
+    position: fixed;
+    left: 80vh;
+    top: 37vh;
+}
+.ssc{
+    font-size: 3vh;
+    position: fixed;
+    left: 80vh;
+    top: 68vh;
+}
+.hsc{
+    font-size: 3vh;
+    position: fixed;
+    left: 80vh;
+    top: 51vh;
+}
+.logomedi img{
+    height: 11vh;
+    position: fixed;
+    left: 66vh;
+    top: 36vh;
+}
+.cj img{
+    height: 11vh;
+    position: fixed;
+    left: 68vh;
+    top: 67vh;
+}
+.cjlogo img{
+    height: 11vh;
+   position:fixed;
+    left: 68vh;
+    top: 51vh;
+}
+.pro{
+    display: flex;
+    font-size: 8vh;
+    position: fixed;
+    left: 63vh;
+    top: 21vh;
+}
+
+.html img{
+    height: 16vh;
+    position: fixed;
+    left: 64vh;
+    top: 44vh; 
+}
+.css img{
+    height: 25vh;
+    position: fixed;
+    left: 95vh;
+    top: 38vh;
+}
+.js img{
+    height: 25vh;
+    position: fixed;
+    left: 123vh;
+    top: 41vh;
+}
+.java img{
+    height: 16vh;
+   position:fixed;
+    left: 157vh;
+    top: 44vh;
+}
+.smartdustbin{
+    font-size: 3vh;
+    position: fixed;
+    top: 35vh;
+    left: 87vh;
+}
+.dustabout{
+    font-size: 3vh;
+    position: fixed;
+    top: 40vh;
+    left: 87vh;
+    width: 81vh;
+}
+.dustbin img{
+    height: 21vh;
+    position: fixed;
+    top: 33vh;
+    left: 67vh;
+}
+.temperature img{
+    width: 22vh;
+    position: fixed;
+    top: 63vh;
+    left: 63vh;
+    height: 14vh;
+}
+.temp{
+    font-weight: bold;
+    font-size: 3vh;
+    position: fixed;
+    top: 62vh;
+    left: 87vh;
+}
+.tempabout{
+    font-size: 3vh;
+    position: fixed;
+    top: 67vh;
+    left: 87vh;
+    width: 81vh;
+}
+.mycontact{
+    position: fixed;
+    top: 46vh;
+    left: 63vh;
+    font-size: 18px;
+}
+.name{
+    position: fixed;
+    top: 42vh;
+    left: 140vh;
+    font-size: 3vh;
+}
+.mail{
+    position: fixed;
+    top: 51vh;
+    left: 140vh;
+    font-size: 3vh;
+}
+.message{
+    position: fixed;
+    top: 60vh;
+    left: 140vh;
+    font-size: 3vh;
+}
+.border{
+    border: 4px solid white;
+    position: fixed;
+    top: 37vh;
+    left: 136vh;
+    width: 51vh;
+    height: 43vh;
+}
+
